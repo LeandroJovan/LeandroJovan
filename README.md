@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,40:0d47a1,80:1565c0,100:00b4d8&height=240&section=header&text=Leandro%20Jovan&fontSize=68&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Applied%20Data%20Science%20%40%20EEPIS%20Surabaya%20⚡&descAlignY=63&descColor=90caf9&animation=scaleIn&stroke=00b4d8&strokeWidth=1.5" width="100%"/>
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="Leandro Jovan Banner"/>
+</div>
 
 <div align="center">
 
@@ -169,4 +171,4 @@ motto    : "In God we trust.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4d8,40:1565c0,80:0d47a1,100:0a0a2e&height=160&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=scaleIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0d47a1,100:00b4d8&height=140&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
