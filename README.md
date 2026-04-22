@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Leandro%20Jovan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Applied%20Data%20Science%20%E2%80%A2%20EEPIS%20Surabaya&descAlignY=58&descColor=58a6ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,40:0d47a1,80:1565c0,100:00b4d8&height=240&section=header&text=Leandro%20Jovan&fontSize=68&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Applied%20Data%20Science%20%40%20EEPIS%20Surabaya%20⚡&descAlignY=63&descColor=90caf9&animation=scaleIn&stroke=00b4d8&strokeWidth=1.5" width="100%"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Turning+data+into+decisions+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;D4+Applied+Data+Science+%40+EEPIS+%F0%9F%87%AE%F0%9F%87%A9;Open+for+collaboration+%26+internship+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Turning+data+into+decisions+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;D4+Applied+Data+Science+%40+EEPIS+%F0%9F%87%AE%F0%9F%87%A9;Open+for+collaboration+%26+internship+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -27,6 +27,7 @@ role     : Data Science Student
 uni      : EEPIS — Politeknik Elektronika
            Negeri Surabaya
 major    : D4 Applied Data Science
+batch    : 2024
 location : Surabaya, East Java 🇮🇩
 focus    :
   - Machine Learning
@@ -136,7 +137,7 @@ motto    : "In God we trust.
 |:---:|:---:|:---:|
 | Transformers & LLMs | Docker & CI/CD | Time Series Forecasting |
 | LLM Fine-tuning | GCP / AWS | Bayesian Statistics |
-| GANs & Diffusion | MLflow | Causal Inference |
+| GANs & Diffusion Models | MLflow & DVC | Causal Inference |
 
 </div>
 
@@ -147,7 +148,7 @@ motto    : "In God we trust.
 <div align="center">
 
 🏛️ **Politeknik Elektronika Negeri Surabaya (EEPIS / PENS)**
-📚 D4 — Applied Data Science &nbsp;|&nbsp; 📅 2022 – Present &nbsp;|&nbsp; 📍 Surabaya, Indonesia 🇮🇩
+📚 D4 — Applied Data Science &nbsp;|&nbsp; 📅 2024 – Present &nbsp;|&nbsp; 📍 Surabaya, Indonesia 🇮🇩
 
 </div>
 
@@ -168,4 +169,4 @@ motto    : "In God we trust.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58a6ff&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4d8,40:1565c0,80:0d47a1,100:0a0a2e&height=160&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=scaleIn" width="100%"/>
