@@ -10,10 +10,10 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrojovan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/leandrojovan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeandroJovan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/LeandroJovan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leandrojovan@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=leandrojovan&style=flat-square&color=58a6ff&label=visitors)](https://github.com/leandrojovan)
+[![Profile Views](https://komarev.com/ghpvc/?username=LeandroJovan&style=flat-square&color=58a6ff&label=visitors)](https://github.com/LeandroJovan)
 
 </div>
 
@@ -91,16 +91,16 @@ motto    : "In God we trust.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrojovan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrojovan&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=7" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeandroJovan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroJovan&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=7" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=leandrojovan&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="65%"/>
+  <img src="https://streak-stats.demolab.com?user=LeandroJovan&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="65%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leandrojovan&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroJovan&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ motto    : "In God we trust.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=leandrojovan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeandroJovan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -162,7 +162,7 @@ motto    : "In God we trust.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrojovan)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeandroJovan)
 [![Gmail](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrojovan@gmail.com)
 
 <br/>
